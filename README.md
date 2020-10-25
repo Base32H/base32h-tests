@@ -20,4 +20,5 @@ through the test cases.
 Of course!  These test cases (like the Base32H number system itself)
 are dual-licensed under a public domain dedication and (for
 jurisdictions which don't recognize the validity of public domain
-dedications) the ISC license.  See `COPYING` in this repo for details.
+dedications) the Zero-Clause BSD (0BSD) license.  See `COPYING` in
+this repo for details.
